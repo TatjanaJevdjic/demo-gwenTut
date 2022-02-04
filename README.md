@@ -3,6 +3,9 @@
 opis 2
 some description
 
-# subheader
+## subheader
 
 I'm watching tutorial
+
+## local development
+1. Open index.html in your browser
