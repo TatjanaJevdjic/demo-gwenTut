@@ -8,4 +8,6 @@ some description
 I'm watching tutorial
 
 ## local development
-1. Open index.html in your browser
+
+1. list promena
+
